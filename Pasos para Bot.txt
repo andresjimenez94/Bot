@@ -1,0 +1,15 @@
+py -m venv /path/to/Bot5
+
+\path\to\Bot5\Scripts\activate.bat
+
+pip3 install pyTelegramBotAPI
+
+pip3 install python-decouple
+
+pip3 install SQLAlchemy
+
+pip3 freeze > requirements.txt
+
+py bot.py
+
+/d/Andres/Especialización Ingeniera del Sofware/Nueva carpeta/Bot3
